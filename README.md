@@ -12,8 +12,8 @@ The RAMP is a versatile management and software tool for connecting data science
 --- 
 
 ## Score 
-* Combined : 0.010
-* Classification : 0.016
+* Combined : 0.016
+* Classification : 0.010 
 * Regression :	0.030
 
 <p align="center">
