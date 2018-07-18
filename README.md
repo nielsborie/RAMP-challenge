@@ -16,6 +16,4 @@ The RAMP is a versatile management and software tool for connecting data science
 * Classification : 0.010 
 * Regression :	0.030
 
-<p align="center">
-<img src="https://github.com/nielsborie/RAMP-challenge/blob/master/RAMP.PNG" width=900 />
-</p>
+![score](https://github.com/nielsborie/RAMP-challenge/blob/master/RAMP.PNG)
